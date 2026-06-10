@@ -61,7 +61,7 @@ The master supplementary Excel workbook and supplementary file index are submitt
 
 Please cite the associated manuscript when available:
 
-Suwaib et al. **Reference-aware phylogenomics reveals country-lineage structure and glycoprotein variation in public Nipah virus genomes.**
+Khan et al. **Reference-aware phylogenomics reveals country-lineage structure and glycoprotein variation in public Nipah virus genomes.**
 
 ## License
 
